@@ -46,6 +46,12 @@ export default defineConfig({
           ]
         },
         {
+          text: '糖尿病药',
+          items: [
+            { text: '格列美脲 (Glimepiride)', link: '/drugs/glimepiride' }
+          ]
+        },
+        {
           text: '抗肿瘤药',
           items: [
             { text: '氟尿嘧啶 (Fluorouracil)', link: '/drugs/fluorouracil' }
