@@ -6,6 +6,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
+      { text: '基础知识', link: '/basics' },
       { text: '药物列表', link: '/drugs/warfarin' },
       { text: '数据库资源', link: '/resources' }
     ],
